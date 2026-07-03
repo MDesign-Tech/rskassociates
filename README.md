@@ -1,2 +1,2 @@
-# RSK-Associates
+# rskassociates
 RSK Associates
